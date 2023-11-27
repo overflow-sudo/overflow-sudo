@@ -48,8 +48,8 @@
 - 🎛️ UIKit
 - 📍 CoreLocation
 - 🫛 CocoaPods
-- 🗺️ Mapkit
-
+- 🗺️ Mapkit <br><br>
+  <a href = "https://apps.apple.com/gr/app/baraj24/id6466598170" target = "_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/available-on-the-app-store-logo.png" width="200" /></a>
 
     </td>
   </tr>
