@@ -7,8 +7,7 @@
  
 ## Skills
 
-- <b>Languages</b> | Swift | Flutter | C# | Python
-- <b>Frameworks & Libraries</b> | SwiftUI | UIKit | Flutter | Unity 
+- <b>Languages</b> | Swift | Delphi | C# | Python
 - <b>Tools & Software</b> | Figma | Git | Firebase | App Store Connect
 
     </td>
