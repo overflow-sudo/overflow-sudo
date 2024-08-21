@@ -58,10 +58,9 @@ tanıyın ve ilerlemenizi grafiklerle takip edin.
 
 ### Baraj24
 <p float="left">
-  <img src="ASSETS/baraj24/pickCity.png" width="200">
-  <img src="ASSETS/baraj24/details.png" width="200" />
-  <img src="ASSETS/baraj24/graph.png" width="200" />
-  <img src="ASSETS/baraj24/map.png" width="200" />
+  <img src="https://cvws.icloud-content.com/B/AQiQEiDYViYJCOroreg4E5AzQAheAcbucgWJ9gqU0fk-TO4id3Bh3B0t/1.png?o=AobA39c0NYpPbbnC5fcG719ztk-Ca6B-IsZ0HuWF_ClR&v=1&x=3&a=CAogrNfUUqQ3FMCjSCDS8Zrgmh_ZUCW1T7XmKknU8r7R3p4SbxC82faolzIYvLbSqpcyIgEAUgQzQAheWgRh3B0taidA3d2RLQFvNxuGweR_CiARIqwynDJyjrJyDcnZaZIgswgCt3PqGTtyJ-lulb_fwnJs-s13oGYm72m0MWqBavdHHZ5iUwDdWPk8UXsfEse7Fw&e=1724250364&fl=&r=8607bef9-7092-4f22-ad8c-40ea668c6427-1&k=G2FjPd_VoCYHoZATaj0KHQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=31&s=-8tYXlC2Sves5nqDE0t6D0Kahzg&cd=i" width="200">
+  <img src="https://cvws.icloud-content.com/B/AVSsYXPBB0ccA2AkvqHY5nCsm3UtARSXwd0v7xf54vsQ8shjfxBSUqnq/2.png?o=AuK8JTtiCu2EBAnXA-SOzjhzlsyTok7IvT_xYUyUiums&v=1&x=3&a=CAogb5Cpkt6Tamuvnkuvp_CaA5TSWza0hF0aZj7W4EkzgVkSbxDewfeolzIY3p7TqpcyIgEAUgSsm3UtWgRSUqnqaifKqAS1Uc3DD2Ot-OLXYX64NfaTtfietPlixe5Z0Cv-GKrcPMSi9EFyJ5peOeoeTDU2cvoDX9syoxYJpDP-b1zfeCBeExSHiKFHx8E6o7wd5g&e=1724250378&fl=&r=4c83e080-b04a-4685-a6d6-bc8c20de4584-1&k=jW8egx0pwOtZ_ERtW4wXJQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=31&s=VZZgEQT5WIDk8mwj6cBO75BALBI&cd=i" width="200" />
+  <img src="https://cvws.icloud-content.com/B/AeVmRPkW2s4HY_AfOd92K7b7qy_bAZVNDJhb_C9l0hF4xZwbNlv7yISa/3.png?o=AmctkuPZHKi9U5XsR5NWTbM5wrsrEER5e4Dmaavf6hlb&v=1&x=3&a=CAogBeznqicb13ljhdABJ58Uw9t5IGP5tidr2r1a92qC7A0SbxDatfiolzIY2pLUqpcyIgEAUgT7qy_bWgT7yISaaifhxGluKBV-jphDuh0IC4KnzUMPG_TRJTn9ouN838lGGVTb2ivpBoByJ0RVmWRs00SjGwH8-KNZ_wCHWXlmnQqw1GXrHPzXSKVGIezKbQLfog&e=1724250392&fl=&r=e50c7606-8cf2-4908-b634-66859ec7ee66-1&k=UPd4_h4IppJaPAPehVlcOg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=31&s=HUQIxje0ikkkQxI1c6eadL7Et1o&cd=i" width="200" />
 </p>
 
 <table>
