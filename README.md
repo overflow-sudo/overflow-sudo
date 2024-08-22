@@ -49,7 +49,7 @@ tanıyın ve ilerlemenizi grafiklerle takip edin.
 - 📍 CoreLocation
 - 🗺️ Mapkit <br><br>
   <a href = "https://apps.apple.com/app/balık-avı-i-stanbul-balık-avı/id6587576233" target = "_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/available-on-the-app-store-logo.png" width="200" /></a>
-
+  <a href = "https://github.com/senihergordugumde/FishingIstanbul" target = "_blank"><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png" width="200" /></a>
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ tanıyın ve ilerlemenizi grafiklerle takip edin.
 - 🫛 CocoaPods
 - 🗺️ Mapkit <br><br>
   <a href = "https://apps.apple.com/gr/app/baraj24/id6466598170" target = "_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/available-on-the-app-store-logo.png" width="200" /></a>
-
+ <a href = "https://github.com/senihergordugumde/baraj24-IOS" target = "_blank"><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png" width="200" /></a>
     </td>
   </tr>
 </table>
