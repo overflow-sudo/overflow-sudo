@@ -2,12 +2,6 @@
 
 ## Emir AKSU
 
-### Skills
-- **Languages**: Swift | Delphi | C# | Python
-- **Tools & Software**: Figma | Git | Firebase | App Store Connect
-
----
-
 ## Projects
 
 ### Balık Avı - İstanbul Balık Avı
