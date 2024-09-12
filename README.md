@@ -26,12 +26,8 @@
 ---
 
 ### Baraj24
+![Group 1](https://github.com/user-attachments/assets/170ca7bb-9a48-4cfb-b8e8-5c41b74cf631)
 
-<p float="left">
-  <img src="https://i.imgur.com/WAuRwoM.png" width="150" style="border-radius: 15px;" alt="Baraj24 Screenshot 1">
-  <img src="https://i.imgur.com/2bfBn7s.png" width="150" style="border-radius: 15px;" alt="Baraj24 Screenshot 2">
-  <img src="https://i.imgur.com/ofuWALv.png" width="150" style="border-radius: 15px;" alt="Baraj24 Screenshot 3">
-</p>
 
 #### Description
 **Baraj24** provides real-time information on Turkey’s dam occupancy rates using open-source data. This app gives users insights into water levels, droughts, and potential water crises by showing historical and current reservoir data, helping raise awareness of future environmental challenges like droughts.
