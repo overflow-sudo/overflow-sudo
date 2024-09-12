@@ -1,5 +1,3 @@
-# iOS Developer Showcase
-
 ## Projects
 
 ### Balık Avı - İstanbul Balık Avı
