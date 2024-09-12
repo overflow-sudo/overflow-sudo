@@ -1,7 +1,5 @@
 # iOS Developer Showcase
 
-## Emir AKSU
-
 ## Projects
 
 ### Balık Avı - İstanbul Balık Avı
