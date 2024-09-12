@@ -2,162 +2,119 @@
 
 ## Emir AKSU
 
-  <table>
-  <tr>
- 
-## Skills
+### Skills
+- **Languages**: Swift | Delphi | C# | Python
+- **Tools & Software**: Figma | Git | Firebase | App Store Connect
 
-- <b>Languages</b> | Swift | Delphi | C# | Python
-- <b>Tools & Software</b> | Figma | Git | Firebase | App Store Connect
-
-    </td>
-  </tr>
-</table>
-
+---
 
 ## Projects
 
 ### Balık Avı - İstanbul Balık Avı
+
 <p float="left">
-  <img src="https://i.imgur.com/uO4VnO6.png" width="200">
-  <img src="https://i.imgur.com/g458YcJ.png" width="200" />
-  <img src="https://i.imgur.com/83FT3wj.png" width="200" />
-  <img src="https://i.imgur.com/D0EHuQw.png" width="200" />
+  <img src="https://i.imgur.com/uO4VnO6.png" width="150" style="border-radius: 15px;" alt="Balık Avı Screenshot 1">
+  <img src="https://i.imgur.com/g458YcJ.png" width="150" style="border-radius: 15px;" alt="Balık Avı Screenshot 2">
+  <img src="https://i.imgur.com/83FT3wj.png" width="150" style="border-radius: 15px;" alt="Balık Avı Screenshot 3">
+  <img src="https://i.imgur.com/D0EHuQw.png" width="150" style="border-radius: 15px;" alt="Balık Avı Screenshot 4">
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Açıklama
+#### Description
+**Balık Avı - İstanbul Balık Avı** is an app designed for fishing enthusiasts in Istanbul. It allows users to calculate fishing probabilities based on real-time data such as weather and water temperature. Users can also identify their caught fish using AI and track their fishing activities over time with detailed progress charts.
 
-
-- Balık Avı - İstanbul'da Balık Avı, İstanbul'da balık tutmayı sevenler için
-geliştirilmiştir. Hava durumu ve su sıcaklığı gibi verileri kullanarak
-balık tutma olasılığını hesaplayın, yapay zeka ile avladığınız balıkları
-tanıyın ve ilerlemenizi grafiklerle takip edin.
-
-  
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-
+#### Technologies Used
 - 📊 Swift Charts
 - 🔁 REST APIs
 - 🎛️ UIKit
 - 📍 CoreLocation
-- 🗺️ Mapkit <br><br>
-  <a href = "https://apps.apple.com/app/balık-avı-i-stanbul-balık-avı/id6587576233" target = "_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/available-on-the-app-store-logo.png" width="200" /></a>
-  <a href = "https://github.com/senihergordugumde/FishingIstanbul" target = "_blank"><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png" width="200" /></a>
-    </td>
-  </tr>
-</table>
+- 🗺️ MapKit
 
+<p float="left">
+  <a href="https://apps.apple.com/app/balık-avı-i-stanbul-balık-avı/id6587576233">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/available-on-the-app-store-logo.png" width="120">
+  </a>
+  <a href="https://github.com/senihergordugumde/FishingIstanbul">
+    <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png" width="120">
+  </a>
+</p>
 
+---
 
 ### Baraj24
+
 <p float="left">
-  <img src="https://i.imgur.com/WAuRwoM.png" width="200">
-  <img src="https://i.imgur.com/2bfBn7s.png" width="200" />
-  <img src="https://i.imgur.com/ofuWALv.png" width="200" />
+  <img src="https://i.imgur.com/WAuRwoM.png" width="150" style="border-radius: 15px;" alt="Baraj24 Screenshot 1">
+  <img src="https://i.imgur.com/2bfBn7s.png" width="150" style="border-radius: 15px;" alt="Baraj24 Screenshot 2">
+  <img src="https://i.imgur.com/ofuWALv.png" width="150" style="border-radius: 15px;" alt="Baraj24 Screenshot 3">
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Açıklama
+#### Description
+**Baraj24** provides real-time information on Turkey’s dam occupancy rates using open-source data. This app gives users insights into water levels, droughts, and potential water crises by showing historical and current reservoir data, helping raise awareness of future environmental challenges like droughts.
 
-- Gelecekte bizleri bekleyen kuraklık, su stresi gibi afetlere ne kadar hazırız?
-
-- Günümüzde dışarı çıkarken dahi hava durumu uygulamalarını kullanıyoruz. Peki ya bizi barajlardaki kuraklık hakkında uyarabilecek bir uygulama olsaydı nasıl olurdu? İşte bu sorudan yola çıkarak bu uygulamayı geliştirdim. Türkiye üzerinde açık kaynaklardan toplayabildiğimiz baraj verilerini bu uygulama üzerinde geçmişe ve günümüze dönük olarak görüntüleyebilirsiniz.
-
-  
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-
+#### Technologies Used
 - 📊 Swift Charts
 - 🔁 REST APIs
 - 🎛️ UIKit
-- 📍 CoreLocation
 - 🫛 CocoaPods
-- 🗺️ Mapkit <br><br>
-  <a href = "https://apps.apple.com/gr/app/baraj24/id6466598170" target = "_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/available-on-the-app-store-logo.png" width="200" /></a>
- <a href = "https://github.com/senihergordugumde/baraj24-IOS" target = "_blank"><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png" width="200" /></a>
-    </td>
-  </tr>
-</table>
+- 📍 CoreLocation
+- 🗺️ MapKit
 
-
-
-### TO-DO-APP
 <p float="left">
-  <img src="ASSETS/toDoApp/signUp.png" width="200">
-  <img src="ASSETS/toDoApp/homePage.png" width="200" />
-  <img src="ASSETS/toDoApp/addTask.png" width="200" />
-  <img src="ASSETS/toDoApp/tasks.png" width="200" />
+  <a href="https://apps.apple.com/gr/app/baraj24/id6466598170">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/available-on-the-app-store-logo.png" width="120">
+  </a>
+  <a href="https://github.com/senihergordugumde/baraj24-IOS">
+    <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png" width="120">
+  </a>
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+---
 
-- Yapım aşamasında!                                                             
+### TO-DO-APP
 
-  
-    </td>
-    <td valign="top" width="50%">
+<p float="left">
+  <img src="ASSETS/toDoApp/signUp.png" width="150" style="border-radius: 15px;" alt="To-Do App Screenshot 1">
+  <img src="ASSETS/toDoApp/homePage.png" width="150" style="border-radius: 15px;" alt="To-Do App Screenshot 2">
+  <img src="ASSETS/toDoApp/addTask.png" width="150" style="border-radius: 15px;" alt="To-Do App Screenshot 3">
+  <img src="ASSETS/toDoApp/tasks.png" width="150" style="border-radius: 15px;" alt="To-Do App Screenshot 4">
+</p>
 
-## Technologies Used
+#### Description
+A work-in-progress project focused on task management, allowing users to create, manage, and organize their tasks efficiently.
 
+#### Technologies Used
 - 🔥 Firebase
 - 🎛️ UIKit
 - 📖 CollectionView
 - 📜 ScrollView
 
-    </td>
-  </tr>
-</table>
+---
 
-# Mathmanner
- TÜBİTAK 2242 Kapsamında eğitim kategorisinde finale kaldığımız oyun projesi. 
- <br>
-<img src= "https://user-images.githubusercontent.com/85408428/190603664-37704ec5-1166-4d10-9e2c-41f092b8d732.png" width = 300>
-<img src= "https://user-images.githubusercontent.com/85408428/190603719-de3551c1-0908-431b-bace-4c0734a38152.png" width = 300>
-<img src= "https://user-images.githubusercontent.com/85408428/190603743-69e89177-d626-4c3d-8aad-1d4457d6117f.png" width = 300>
-<img src= "https://user-images.githubusercontent.com/85408428/190603756-c2deb9bf-9674-4800-8eae-62a5ea2535c5.png" width = 300>
+### Mathmanner
+TÜBİTAK 2242 kapsamında finale kalan eğitim kategorisindeki oyun projem.  
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/85408428/190603664-37704ec5-1166-4d10-9e2c-41f092b8d732.png" width="150" style="border-radius: 15px;" alt="Mathmanner Screenshot 1">
+  <img src="https://user-images.githubusercontent.com/85408428/190603719-de3551c1-0908-431b-bace-4c0734a38152.png" width="150" style="border-radius: 15px;" alt="Mathmanner Screenshot 2">
+  <img src="https://user-images.githubusercontent.com/85408428/190603743-69e89177-d626-4c3d-8aad-1d4457d6117f.png" width="150" style="border-radius: 15px;" alt="Mathmanner Screenshot 3">
+  <img src="https://user-images.githubusercontent.com/85408428/190603756-c2deb9bf-9674-4800-8eae-62a5ea2535c5.png" width="150" style="border-radius: 15px;" alt="Mathmanner Screenshot 4">
+</p>
 
+---
 
-## Deneyim
+## Experience
+I’ve been passionate about technology from a young age and began working towards my dream career early. With an academic background in both management and information systems, I’ve gained experience in Python, Swift, Pascal, and more. Over the years, I’ve developed small projects to enhance my skills and published them on GitHub. 
 
-Küçük yaşlarımdan itibaren bilişim sektörüyle ilgileniyorum. Hayallerim
-doğrultusunda çalışmaya bu yaşlardan itibaren başladım.
+One of my proudest achievements was becoming a finalist in the TÜBİTAK education project category, where I had the opportunity to connect with numerous professionals in the field. In November 2023, I was selected as one of the 2,000 participants in the Google Game and App Academy, where I’ll receive 8 months of training in Flutter, Unity, and other technologies.
 
-Hem yönetim hem bilişim alanında dersler görmekteyim. Python, Swift, Pascal gibi
-dillere ilgileniyorum. IOS Geliştirici olma yolunda kendimi geliştirmeye çalışıyorum.
-Kendi çapımda yaptığım ufak projelerimi Github hesabıma da yüklüyorum.
+---
 
-Yaptığım bu ufak projeler sayesinde bölüm hocalarım tarafından fark edildim ve bir
-<b>TÜBİTAK</b> projesi yapmaya karar verdik. Eğitim kategorisinde Türkiye genelinde
-finale kaldım ve sayısız insanla tanışma fırsatı buldum. Güncel olarak ilgilendiğim
-projeler de bulunmakta
+## Education
+- Bartın University | Management Information Systems
+- Anadolu University | Computer Programming
 
-2023 Kasım ayında, Google Oyun Ve Uygulama Akademisine seçilen 2000 kişiden biri oldum. 8 ay boyunca Flutter, Unity gibi dil ve platformlar üzerine eğitimler göreceğim.
+---
 
-## Eğitim
+## Contact
 
-- Bartın Üniversitesi | Yönetim Bilişim Sistemleri
-- Andaolu Üniversitesi | Bilgisayar Programcılığı
-
-## İletişim
-
-Email: emiraksu1608@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/emir-aksu-118b5421b/
-
-
+- **Email**: emiraksu1608@gmail.com  
+- **LinkedIn**: [Emir Aksu](https://www.linkedin.com/in/emir-aksu-118b5421b/)
