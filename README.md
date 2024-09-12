@@ -2,12 +2,7 @@
 
 ### Balık Avı - İstanbul Balık Avı
 
-<p float="left">
-  <img src="https://i.imgur.com/uO4VnO6.png" width="150" style="border-radius: 15px;" alt="Balık Avı Screenshot 1">
-  <img src="https://i.imgur.com/g458YcJ.png" width="150" style="border-radius: 15px;" alt="Balık Avı Screenshot 2">
-  <img src="https://i.imgur.com/83FT3wj.png" width="150" style="border-radius: 15px;" alt="Balık Avı Screenshot 3">
-  <img src="https://i.imgur.com/D0EHuQw.png" width="150" style="border-radius: 15px;" alt="Balık Avı Screenshot 4">
-</p>
+![Group 2](https://github.com/user-attachments/assets/2742b017-bcb2-4643-bce1-b5588d68793e)
 
 #### Description
 **Balık Avı - İstanbul Balık Avı** is an app designed for fishing enthusiasts in Istanbul. It allows users to calculate fishing probabilities based on real-time data such as weather and water temperature. Users can also identify their caught fish using AI and track their fishing activities over time with detailed progress charts.
