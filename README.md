@@ -53,12 +53,8 @@
 
 ### TO-DO-APP
 
-<p float="left">
-  <img src="ASSETS/toDoApp/signUp.png" width="150" style="border-radius: 15px;" alt="To-Do App Screenshot 1">
-  <img src="ASSETS/toDoApp/homePage.png" width="150" style="border-radius: 15px;" alt="To-Do App Screenshot 2">
-  <img src="ASSETS/toDoApp/addTask.png" width="150" style="border-radius: 15px;" alt="To-Do App Screenshot 3">
-  <img src="ASSETS/toDoApp/tasks.png" width="150" style="border-radius: 15px;" alt="To-Do App Screenshot 4">
-</p>
+![Group 2 (1)](https://github.com/user-attachments/assets/012a1e2e-8313-4518-acec-fab55fb05cd7)
+
 
 #### Description
 A work-in-progress project focused on task management, allowing users to create, manage, and organize their tasks efficiently.
