@@ -1,6 +1,7 @@
 ## Projects
 
 ### Lancard - Learn With Flashcard
+![Group 1](https://raw.githubusercontent.com/overflow-sudo/overflow-sudo/refs/heads/main/ASSETS/Group%201.png)
 
 #### Description
 Learn smarter, memorize faster, and boost your vocabulary with Lancard!
