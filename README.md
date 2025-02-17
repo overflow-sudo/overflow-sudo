@@ -1,5 +1,23 @@
 ## Projects
 
+### Lancard - Learn With Flashcard
+
+#### Description
+Learn smarter, memorize faster, and boost your vocabulary with Lancard!
+
+**Lancard** is an AI-powered flashcard app designed to make language learning effortless. Whether you want to create personalized flashcards, scan words from texts, or use ready-made vocabulary sets, Lancard helps you learn faster and retain words longer.
+
+<p float="left">
+  <a href="https://apps.apple.com/app/balık-avı-i-stanbul-balık-avı/id6587576233">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/available-on-the-app-store-logo.png" width="120">
+  </a>
+  <a href="https://github.com/senihergordugumde/FishingIstanbul">
+    <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2020/10/d6528811.png" width="120">
+  </a>
+</p>
+
+---
+
 ### Balık Avı - İstanbul Balık Avı
 
 ![Group 2](https://github.com/user-attachments/assets/2742b017-bcb2-4643-bce1-b5588d68793e)
